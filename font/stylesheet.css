@@ -11,7 +11,7 @@
     font-family: 'Futura PT';
     src: url('FuturaPT-Medium.woff2') format('woff2'),
         url('FuturaPT-Medium.woff') format('woff');
-    font-weight: 500;
+    font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
